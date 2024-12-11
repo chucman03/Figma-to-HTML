@@ -8,4 +8,9 @@ html {
 /* khôi phục lại cỡ chữ mặc định theo rem */
 body {
   font-size: 1.6rem;
+  font-family: "Poppins", sans-serif;
+  font-family: "Sen", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
 }
